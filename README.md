@@ -10,7 +10,12 @@ I am a passionate MS CS student at the University of Southern California, driven
 - 🌐 Experienced in Web Dev, Game Dev, Machine Learning and Data Analysis.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,bootstrap,flask,react,gcp,nodejs,npm,latex,github,git,matlab,mongodb,opencv,pytorch,raspberrypi,blendar,rider,unity)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,cpp,js,html,css,bootstrap,flask,react,gcp,nodejs,npm,latex,github,git,matlab,mongodb,opencv,pytorch,raspberrypi,blendar,rider,unity" />
+  </a>
+</p>
+<!-- [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,bootstrap,flask,react,gcp,nodejs,npm,latex,github,git,matlab,mongodb,opencv,pytorch,raspberrypi,blendar,rider,unity)](https://skillicons.dev) -->
 
 ## 🌱 Currently Exploring
 
