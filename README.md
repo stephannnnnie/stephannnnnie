@@ -2,7 +2,6 @@
 
 I am a passionate MS CS student at the University of Southern California, driven by a curiosity for technology and a love for exploration. My journey involves delving into the world of computer science, learning new tools, and collaborating with more people like me!
 
-![stephannnnnie's Stats](https://github-readme-stats.vercel.app/api?username=stephannnnnie&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -11,15 +10,15 @@ I am a passionate MS CS student at the University of Southern California, driven
 - 🌐 Experienced in Web Dev, Game Dev, Machine Learning and Data Analysis.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,bootstrap,flask,react,gcp,nodejs,npm,latex,github,git,matlab,mongodb,opencv,pytorch,raspberrypi,blendar,rider,unity)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development and Android App Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
+  - Exploring the ins and outs of React for dynamic front-end experiences.
+  - Navigating through the world of React for seamless page transitions.
+  - Styling with Bootstrap to create modern and responsive user interfaces.
+  - Building server-side applications with Flask, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
  ## 🏆 Achievements
